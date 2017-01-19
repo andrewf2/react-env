@@ -1,0 +1,52 @@
+module.exports = [
+   {
+      "emailAddress":"bobthebuilder@gmail.com",
+      "firstName":"Bob",
+      "homeId":null,
+      "id":"dc03d39f-7d0e-4b9d-90b4-ec3e8334d1b3",
+      "key":null,
+      "lastName":"The Builder",
+      "password":"password",
+      "role":"builder"
+   },
+   {
+      "emailAddress":"johndoe@gmail.com",
+      "firstName":"John",
+      "homeId":"dc03d39f-1234-4b9d-90b4-ec3e8334d1a3",
+      "id":"dc03d39f-7d0e-4b9d-90b4-ec3e8334d1b1",
+      "key":null,
+      "lastName":"Doe",
+      "password":"password",
+      "role":"customer"
+   },
+   {
+      "emailAddress":"benwife@gmail.com",
+      "firstName":"Ben's",
+      "homeId":"dc03d39f-7d0e-4b9d-1234-ec3e8334d1a2",
+      "id":"dc03d39f-7d0e-4b9d-90b4-ec3e8334d1b5",
+      "key":null,
+      "lastName":"Wife",
+      "password":"password",
+      "role":"customer"
+   },
+   {
+      "emailAddress":"jimmyeatworld@gmail.com",
+      "firstName":"Jimmy Eat",
+      "homeId":"dc03d39f-7d0e-1324-90b4-ec3e8334d1a1",
+      "id":"dc03d39f-7d0e-4b9d-90b4-ec3e8334d1b2",
+      "key":null,
+      "lastName":"World",
+      "password":"password",
+      "role":"customer"
+   },
+   {
+      "emailAddress":"ben@gmail.com",
+      "firstName":"Ben",
+      "homeId":"dc03d39f-7d0e-4b9d-1234-ec3e8334d1a2",
+      "id":"dc03d39f-7d0e-4b9d-90b4-ec3e8334d1b4",
+      "key":null,
+      "lastName":"Dover",
+      "password":"password",
+      "role":"customer"
+   }
+]
